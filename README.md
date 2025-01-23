@@ -1,6 +1,3 @@
-Here’s a professional and well-structured README file for your GitHub repository:
-
----
 
 # Customer Churn Prediction Using Neural Networks
 
@@ -23,7 +20,7 @@ This repository contains a Python project for predicting customer churn using a 
 ---
 
 ## Project Overview
-Customer churn is a critical metric for businesses, especially subscription-based services. This project aims to predict churn based on customer data using a machine learning approach. 
+Customer churn is a critical metric for businesses, especially subscription-based services. This project aims to predict churn based on customer data using a machine-learning approach. 
 
 The project workflow includes:
 1. Exploratory Data Analysis (EDA) for data understanding.
@@ -123,11 +120,4 @@ The model achieves **[Add Accuracy Here]%** accuracy after training for 100 epoc
 ## Contributing
 Contributions are welcome! Please fork the repository and submit a pull request for any enhancements or bug fixes.
 
----
 
-## License
-This project is licensed under the [MIT License](LICENSE).
-
----
-
-Feel free to modify or expand this README based on your specific requirements!
