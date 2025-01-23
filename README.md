@@ -84,23 +84,6 @@ The neural network architecture:
 
 ---
 
-## Installation
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/your_username/customer-churn-prediction.git
-   ```
-2. Navigate to the project directory:
-   ```bash
-   cd customer-churn-prediction
-   ```
-3. Install required dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-4. Run the notebook or Python script.
-
----
-
 ## Usage
 1. Prepare your dataset (`customer_churn.csv`).
 2. Load the notebook or script.
